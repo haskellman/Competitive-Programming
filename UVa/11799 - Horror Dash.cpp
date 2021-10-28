@@ -6,7 +6,7 @@ int main(){
 
 	int t;
 	cin >> t;
-	while(t--){
+	for(int i=1;i<=t;i++){
 		int n, x, y = 0;
 		cin >> n;
 		while(n--){
